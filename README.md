@@ -1,119 +1,170 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Srihari!+%E2%9C%A8;Data+Science+Student;Full-Stack+Developer;AI+Builder+%26+Automation+Enthusiast" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=00B894&center=true&vCenter=true&width=900&lines=Hi+I'm+Srihari+%F0%9F%91%8B;AI+%7C+Data+Science+%7C+Full+Stack+Developer;I+build+real+systems+not+just+demos" alt="Typing Banner"/>
+</p>
 
-<div align="center">
-  <i>I build intelligent systems, scalable apps, and automation pipelines that solve real problems. <br> From ML models and analytics tools to production-ready web platforms.</i>
-</div>
+<p align="center">
+<img src="https://svg-banners.vercel.app/api?type=origin&text1=Python%20•%20Machine%20Learning%20•%20APIs%20•%20React%20•%20Automation%20•%20Docker&width=900&height=120" alt="Skill Banner"/>
+</p>
 
----
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="55%" style="border: none;">
-      <h2>👤 About Me</h2>
-      <ul>
-        <li>🎓 BTech student focused on <b>Data Science, Machine Learning, & Software Engineering</b>.</li>
-        <li>💻 Strong in <b>Python, JavaScript, React, Node.js, FastAPI, and Flutter</b>.</li>
-        <li>🤖 Fascinated by <b>AI systems, automation workflows, and production pipelines</b>.</li>
-        <li>🔬 Experienced in building <b>end-to-end ML & containerized applications</b>.</li>
-        <li>🧩 Passionate about turning complex ideas into <b>working products</b>.</li>
-      </ul>
-      <blockquote><i>"I don’t just learn concepts — I ship implementations."</i></blockquote>
-    </td>
-    <td width="45%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=srisrihari&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="srisrihari's GitHub stats" />
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,fastapi,flutter,docker,git,supabase,linux,tensorflow,scikitlearn&perline=10" alt="Tech Stack" />
-  <br>
-</div>
-
-<br>
-
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🔥 What Drives Me</h3>
-      <ul>
-        <li>Building <b>real usable systems</b>, not just local demos.</li>
-        <li>Combining <b>AI + software engineering</b> into deployable tools.</li>
-        <li>Learning by <b>shipping, testing, improving, repeating</b>.</li>
-        <li>Exploring how automation replaces repetitive workflows.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🤝 Open To</h3>
-      <ul>
-        <li>Collaborating on innovative <b>AI projects</b>.</li>
-        <li>Full-stack, Data Science, or ML internships.</li>
-        <li>Automation, tooling ideas, and workflow optimizations.</li>
-        <li>Interesting experimental builds & hackathons.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 🚀 Projects & Ventures
-
-### 🤖 Machine Learning & AI
-* **CIFAR-10 Experiments:** Evaluated CNN & Dense neural network architectures for image classification.
-* **Backorder Prediction:** Developed an MLP CLI app with **Docker containerization** for robust deployment.
-* **Depression Detection from Tweets:** Constructed an end-to-end ML pipeline with custom dataset hydration.
-* **Synthetic Data Generation:** Generated and evaluated synthetic datasets across varying domains.
-* **Distributed Training:** Conducted distributed model training experiments using **Dask**.
-
-### 🌐 Full-Stack Applications
-* 📊 **Personal Expense Tracker:** A mobile-first tracker combining a **Flutter** frontend with a **FastAPI** backend for dynamic financial insights.
-* 🎓 **Coaching / Lecture Platform:** A comprehensive **React + Node.js** educational platform featuring admin/student dashboards, scheduled embedded streams, and a mapped database migration strategy (PostgreSQL/Supabase).
-* 🧮 **Financial Calculator Backend:** An extensible API architecture addressing EMI, loan amortization, credit interest calculation, tax planning, and retirement corpus modeling.
-
-### 🔗 Automation & Integrations
-* ⚡ **n8n Automation:** Developed Outlook auto-reply mechanisms paired with an intelligent attachment summarizer.
-* 🔄 **Google Workspace Pipelines:** Streamlined workflows connecting Google Forms → Sheets → Email generation.
-* 🧩 **Workflow Injection:** Designed Chrome extension APIs for real-time candidate resume ingestion and platform workflow linking.
-* 🎯 **ATS Integration:** Spearheaded research mapping ATS systems to LinkedIn job posting autofill protocols.
-
-### 🎨 Advanced Experimental Work
-* 🎬 **AI Anime Production Pipeline:** Designing a Blender-based automated animation workflow integrating AI-assisted voice, visual, and scene generation to build a production-quality automated storytelling system.
-* 🎮 **Game Development Roadmap:** Charting the strategic, technical, and operational roadmap for a prospective online game development company.
-
----
-
-## 📈 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisrihari&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisrihari&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/srisrihari">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add your LinkedIn below -->
-  <!--
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/srihari-kanyaboina-11b947255">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  -->
-</div>
-
-<p align="center">
-  <i>Always open to tech discussions and collaborations. <br> ⭐ If you like my work, consider checking out my repositories and dropping a star! ⭐</i>
 </p>
 
-<div align="center">
-    <!-- Visitors Counter -->
-    <img src="https://komarev.com/ghpvc/?username=srisrihari&label=Profile%20views&color=0e75b6&style=flat" alt="srisrihari" />
-</div>
+---
+
+## 🚀 About Me
+
+🎓 Data Science student building **ML systems, automation pipelines, APIs, and full-stack apps**  
+🧠 Focus: **production-ready engineering + AI integration**  
+⚡ Environment: **Linux (Garuda + Hyprland), API-first workflows, automation mindset**  
+
+I build production-aware ML systems, automation pipelines, and full-stack apps — then containerize and ship them. My work mixes data science (ML/CV/NLP), system design, and end-to-end engineering (APIs, frontend, CI/CD). I like turning research-y ideas into reliable developer-first products.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=srisrihari&show_icons=true&theme=tokyonight&hide_rank=true" alt="Github Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srisrihari&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srisrihari&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srisrihari&theme=tokyonight" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🧩 Featured Repositories
+
+<p align="center">
+<a href="https://github.com/srisrihari/expense-tracker"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srisrihari&repo=expense-tracker&theme=tokyonight" alt="expense-tracker"/></a>
+<a href="https://github.com/srisrihari/coaching-platform"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srisrihari&repo=coaching-platform&theme=tokyonight" alt="coaching-platform"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/srisrihari/financial-calculators-api"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srisrihari&repo=financial-calculators-api&theme=tokyonight" alt="financial-calculators-api"/></a>
+<a href="https://github.com/srisrihari/mlp-backorder-cli"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srisrihari&repo=mlp-backorder-cli&theme=tokyonight" alt="mlp-backorder-cli"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/srisrihari/anime-automation-pipeline"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srisrihari&repo=anime-automation-pipeline&theme=tokyonight" alt="anime-automation-pipeline"/></a>
+<a href="https://github.com/srisrihari/chrome-resume-extension"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=srisrihari&repo=chrome-resume-extension&theme=tokyonight" alt="chrome-resume-extension"/></a>
+</p>
+
+*(Note: Ensure your pinned repositories match these exact repo names for the cards to display correctly!)*
+
+---
+
+## 💼 Technical Projects Highlight
+
+### 🤖 Machine Learning & Data Science
+* **Backorder Prediction MLP CLI** — Python CLI + Docker containerization
+* **CIFAR-10 Experiments** — High vs low CNN + dense baseline comparisons
+* **Depression Detection from Tweets** — NLP pipeline + Twarc hydration
+* **Synthetic Dataset Generator** — testing bias/variance/outliers across tasks
+* **Distributed Model Training** — SVC/SVR acceleration using Dask cluster
+
+### 🌐 Full-Stack & Backend Systems
+* **Personal Expense Tracker** — Flutter + FastAPI full-stack app
+* **Coaching Lecture Platform** — React + Node.js, admin/user roles, video embeds
+* **Financial Calculators Backend** — EMI, loans, tax, retirement corpus APIs
+* **Webinar Platform w/ Referral Tracking** — unique RM links + registrations
+* **Talent/ATS Chrome Extension APIs** — resume ingestion + workflow linking
+* **ATS → LinkedIn Autofill Integration Research & Prototype**
+
+### ⚙️ Automation / Systems / Tooling
+* **Outlook Auto-Reply Agent** — n8n workflow reading mail & summarizing attachments
+* **University Travel Booking Automation** — Forms → Sheets → Email pipeline
+* **Network Aggregation Experiments** — combining multiple mobile connections via PC hub
+* **Linux Dev Environment Setup** — Garuda + Hyprland + zsh productivity configs
+
+### 🎬 Advanced Experimental Engineering
+* **AI Anime Production Pipeline**
+  Blender-based automated animation system with AI assets, voice, rendering, editing.
+  Target: **publishable production-quality anime automation**
+
+<details>
+<summary><b>📂 View Complete Project History (35+ Projects)</b></summary>
+<br>
+
+1. **Personal Expense Tracker** - Flutter frontend + FastAPI backend.
+2. **Market & Product Research** - Market research projects, Prisoner’s Dilemma activity.
+3. **Desktop & Dev Environment** - Garuda Linux + Hyprland dotfiles/configs.
+4. **Zsh & Oh My Zsh configuration** - Custom zsh config, themes, plugins.
+5. **MLP CLI — Backorder Prediction** - Python CLI app, containerized with Docker.
+6. **Shark Tank Pitch** - Caffeinated Peanut Butter Indian market pitch.
+7. **Quantitative Techniques** - Case study with synthetic datasets, Excel distributions.
+8. **Financial Calculators Backend** - APIs for EMI, retirement panning.
+9. **CIFAR-10 CNN Experiments** - High/low-performing CNNs & baselines.
+10. **Coaching Platform — Access Controls** - System to restrict Zoom/YouTube access.
+11. **Coaching App Prototype** - Custom YouTube embeds UI, DB integration.
+12. **16-Term Curriculum Flowchart** - Curriculum visual flowchart.
+13. **Webinar Platform with RM Referral Links** - RM IDs, React+Node, investor regs.
+14. **Magazine Rewrite Project** - Restructured English content.
+15. **Personality Enhancement Program App** - College team project app prototype.
+16. **Anime Stories & Novelist Work** - Original stories for anime.
+17. **AI + Blender Anime Automation Pipeline** - End-to-end AI/Blender anime pipeline.
+18. **Company Roadmap — Online Game Studio** - Business plan/roadmap for game studio.
+19. **Distributed ML Training with Dask** - SVC/SVR training across multiple devices.
+20. **Blender-based Animation** - Implementation notes for Blender backbone.
+21. **Network Aggregation** - PC aggregator combining mobile connections.
+22. **Depression Detection from Tweets** - Twarc hydration, classification model.
+23. **Synthetic Dataset Generation + Evaluation** - Bias/variance dataset tests.
+24. **Outlook Auto-Reply Agent (n8n)** - Read mails, summarize PDFs automatically.
+25. **Chrome Extension — Resume Ingestion** - GitHub/LinkedIn profile scraper.
+26. **ATS → LinkedIn Integration Research** - "Magic link" job-posting prepopulation.
+27. **API Design & Proxy Layer** - Integration guides & tests for internal tools.
+28. **Proxy & Endpoint Implementations** - Resume ingestion / update endpoints.
+29. **Performance & Monthly Reports** - Templates for team output reporting.
+30. **Regex / Text Processing Experiments** - Extracting details via text parsing.
+31. **Anime Production Target** - Publishable-grade anime with generative workflows.
+32. **Webinar App** - RM referral, session management frontend in React+Node.
+33. **Auto-summarizer for PDFs** - Experimental pipeline utilizing OCR and summarization.
+34. **Interview Prep Guides** - Resources for DS interviews and dev hiring.
+35. **University Travel Booking Automation** - Google Forms to formatted Email flow.
+
+</details>
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+Python • JavaScript • SQL • Dart
+
+**Frameworks & Tools**
+FastAPI • React • Node.js • Flutter • Docker • Supabase • n8n • Blender • Dask
+
+**AI / Data**
+Scikit-learn • CNNs • NLP • statistical modeling • ML experimentation pipelines
+
+**Environment**
+Linux • Hyprland • zsh • API-first architecture
+
+---
+
+## 🤝 Collaboration
+
+**Open to:**
+* AI / ML projects
+* Backend/Full-stack engineering work
+* Automation systems
+* Experimental tools & research builds
+
+---
+
+<p align="center">
+<a href="https://github.com/srisrihari"><img src="https://komarev.com/ghpvc/?username=srisrihari&label=Profile%20views&color=00B894&style=flat" alt="srisrihari" /></a>
+</p>
+
+<p align="center">
+⭐ <i>If you like my work, explore my repos and consider starring them!</i> ⭐
+</p>
