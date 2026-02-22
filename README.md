@@ -1,129 +1,126 @@
-<!-- ===================== TOP ANIMATED SKILL SVG ===================== -->
+# 👋 Hi, I'm Srihari
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=00B894&center=true&vCenter=true&width=900&lines=Hi+I'm+Srihari+%F0%9F%91%8B;AI+%7C+Data+Science+%7C+Full+Stack+Developer;I+build+real+systems+not+just+demos" />
-</p>
-
-<!-- CUSTOM ANIMATED SKILL BAR -->
-
-<p align="center">
-<img src="https://svg-banners.vercel.app/api?type=origin&text1=Python%20•%20Machine%20Learning%20•%20APIs%20•%20React%20•%20Automation%20•%20Docker&width=900&height=120"/>
-</p>
+🚀 **Data Science Student | Full-Stack Developer | AI Builder | Automation Enthusiast**
+I build intelligent systems, scalable apps, and automation pipelines that solve real problems — from ML models and analytics tools to production-ready web platforms.
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🎓 Data Science student building **ML systems, automation pipelines, APIs, and full-stack apps**
-🧠 Focus: **production-ready engineering + AI integration**
-⚡ Environment: **Linux (Garuda + Hyprland), API-first workflows, automation mindset**
+* 🎓 BTech student focused on **Data Science, Machine Learning, and Software Engineering**
+* 💻 Strong in **Python, JavaScript, React, Node.js, FastAPI**
+* 🤖 Interested in **AI systems, automation workflows, and production pipelines**
+* 🔬 Experience building **end-to-end ML + containerized applications**
+* 🧩 Love turning complex ideas into **working products**
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srisrihari&show_icons=true&theme=tokyonight&hide_rank=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srisrihari&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisrihari&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=srisrihari&theme=github"/>
-</p>
+I don’t just learn concepts — I ship implementations.
 
 ---
 
-# 🧩 Featured Repositories
+## 🛠️ What I Work On
 
-👉 **Replace repo names below with your real ones**
-(Format: `username/repo-name`)
+### 🤖 Machine Learning & AI
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srisrihari&repo=expense-tracker&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srisrihari&repo=coaching-platform&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srisrihari&repo=financial-calculators-api&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srisrihari&repo=mlp-backorder-cli&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srisrihari&repo=anime-automation-pipeline&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srisrihari&repo=chrome-resume-extension&theme=tokyonight"/>
-
-</p>
+* CNN / Dense neural network experiments (CIFAR-10 image classification)
+* Backorder prediction using **MLP CLI + Docker containerization**
+* Depression detection from tweets (ML pipeline + dataset hydration)
+* Synthetic dataset generation & evaluation across domains
+* Distributed training experiments using **Dask**
 
 ---
 
-# 💼 Technical Projects
+### 🌐 Full-Stack Applications
 
-### 🤖 Machine Learning & Data Science
+* 📊 **Personal Expense Tracker**
+  Flutter frontend + FastAPI backend for financial insights
 
-* **Backorder Prediction MLP CLI** — Python CLI + Docker containerization
-* **CIFAR-10 Experiments** — High vs low CNN + dense baseline comparisons
-* **Depression Detection from Tweets** — NLP pipeline + Twarc hydration
-* **Synthetic Dataset Generator** — testing bias/variance/outliers across tasks
-* **Distributed Model Training** — SVC/SVR acceleration using Dask cluster
+* 🎓 **Coaching / Lecture Platform**
 
----
+  * React + Node.js app
+  * Admin & student dashboards
+  * Scheduled lectures + embedded streams
+  * Authentication & database migration planning (PostgreSQL/Supabase)
 
-### 🌐 Full-Stack & Backend Systems
+* 🧮 **Financial Calculator Backend**
 
-* **Personal Expense Tracker** — Flutter + FastAPI full-stack app
-* **Coaching Lecture Platform** — React + Node.js, admin/user roles, video embeds
-* **Financial Calculators Backend** — EMI, loans, tax, retirement corpus APIs
-* **Webinar Platform w/ Referral Tracking** — unique RM links + registrations
-* **Talent/ATS Chrome Extension APIs** — resume ingestion + workflow linking
-* **ATS → LinkedIn Autofill Integration Research & Prototype**
+  * EMI, loans, credit interest
+  * tax planning & retirement corpus tools
+  * designed for extensible API architecture
 
 ---
 
-### ⚙️ Automation / Systems / Tooling
+### 🔗 Automation & Integrations
 
-* **Outlook Auto-Reply Agent** — n8n workflow reading mail & summarizing attachments
-* **University Travel Booking Automation** — Forms → Sheets → Email pipeline
-* **Network Aggregation Experiments** — combining multiple mobile connections via PC hub
-* **Linux Dev Environment Setup** — Garuda + Hyprland + zsh productivity configs
-
----
-
-### 🎬 Advanced Experimental Engineering
-
-* **AI Anime Production Pipeline**
-  Blender-based automated animation system with AI assets, voice, rendering, editing.
-  Target: **publishable production-quality anime automation**
+* Outlook auto-reply + attachment summarizer using **n8n**
+* Google Form → Sheet → Email automation workflow
+* Chrome extension APIs for candidate resume ingestion & workflow linking
+* Research on ATS → LinkedIn job posting autofill integration
 
 ---
 
-# 🧰 Tech Stack
+### 🎨 Advanced Experimental Work
+
+* 🎬 **AI Anime Production Pipeline**
+
+  * Blender-based automated animation workflow
+  * AI-assisted voice, visuals, and scene generation
+  * Goal: production-quality automated storytelling system
+
+* 🎮 Planning roadmap for an **online game development company**
+
+---
+
+## 🧰 Tech Stack
 
 **Languages**
-Python • JavaScript • SQL • Dart
+
+```
+Python • JavaScript • SQL • HTML • CSS
+```
 
 **Frameworks & Tools**
-FastAPI • React • Node.js • Flutter • Docker • Supabase • n8n • Blender • Dask
+
+```
+React • Node.js • FastAPI • Flutter • Docker • Git • Supabase • n8n • Blender
+```
 
 **AI / Data**
-Scikit-learn • CNNs • NLP • statistical modeling • ML experimentation pipelines
+
+```
+TensorFlow / PyTorch concepts • Scikit-learn • CNNs • NLP • Statistical Analysis • Excel modeling
+```
 
 **Environment**
-Linux • Hyprland • zsh • API-first architecture
+
+```
+Linux (Garuda + Hyprland) • Chrome Extensions • API-first architectures
+```
 
 ---
 
-# 🤝 Collaboration
+## 📈 What Drives Me
 
-Open to:
-
-* AI / ML projects
-* backend/full-stack engineering work
-* automation systems
-* experimental tools & research builds
+* Building **real usable systems**, not just demos
+* Combining **AI + software engineering** into deployable products
+* Learning by **shipping, testing, improving, repeating**
+* Exploring how automation can replace repetitive workflows
 
 ---
 
-<p align="center">
-⭐ If you like my work, explore my repos and consider starring them!
-</p>
+## 🤝 Open To
+
+* Collaboration on **AI projects**
+* Full-stack or ML internships
+* Automation or tooling ideas
+* Interesting experimental builds
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 GitHub: https://github.com/srisrihari
+* 💬 Always open to tech discussions and collaborations
+
+---
+
+⭐ *If you like my work, consider checking out my repositories and dropping a star!*
